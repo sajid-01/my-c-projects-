@@ -321,7 +321,7 @@
 		<div id="contact" class="footer">
 			<hr>
 			<h2 class="foot-text">Contact Us!</h2>
-			<h3 class="foot-text">Developers: VV, PKK</h3><br>
+			<h3 class="foot-text">Developer: Shaik Sajid Ahamed</h3><br>
 		</div>
 	</body>
 </html>
